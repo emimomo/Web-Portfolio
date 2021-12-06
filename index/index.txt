@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Emily Hann</title>
+    <meta name="description"
+      content="Emily Hann Web Portfolio" />
+    <meta http-equiv="author"
+      content="Emily Hann" />
+    <link href="styles/styles.css"
+      type="text/css"
+      rel="stylesheet" />
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Quicksand&family=Syncopate&family=Unica+One&display=swap" rel="stylesheet">
+  </head>
+
+  <body>
+
+  <!--Header-->
+    <div class="header">
+
+  <!-- Site Logo -->
+      <div id="logo">
+        <a href=index.html>
+          <img src="images/logo.png"
+            alt="Site Logo"
+            title="" />
+        </a>
+      </div><!--End Logo-->
+
+  <!-- Site navigation menu -->
+      <div id="navbar">
+
+        <div id="about me link">
+          <a href="about_me/about_me.html">About Me</a>
+        </div>
+
+        <div id="soundscape link">
+          <a href="soundscape/soundscape.html">Soundscape Narrative</a>
+        </div>
+
+        <div id="va link">
+          <a href="visual_argument/visual_argument.html">Visual Argument</a>
+        </div>
+
+        <div id="contact me link">
+          <a href="mailto:emilyhann@gmail.com">Contact Me</a>
+        </div>
+
+      </div><!--End navigation menu-->
+
+    </div>
+  <!--End Header-->
+
+
+<!-- Profile Picture -->
+
+    <div id="profile pic">
+
+      <img src="images/profile_pic.jpg"
+        alt="Emily outside at a park wearing a jean jacket"
+        title="Emily Hann" />
+    </div>
+<!--End Profile Picture-->
+
+
+<!-- Main Content -->
+    <div class="main" id="intro">
+
+      <div id="name">
+        <h1>Emily Hann</h1>
+      </div>
+
+      <div id="tagline">
+        <h4>Student, Anthropologist, Aspiring Digital Designer</h4>
+      </div>
+
+      <div id="bio">
+        <p>I am motivated by academic and creative projects that embrace human diversity
+        and cultural differences. My aim is to share stories across the world using digital
+        platforms to foster cultural awareness and intercultural connections. I am dedicated
+        to accurate representation and innovative design.</p>
+      </div>
+
+    <!--Icon Library-->
+      <div class="socials">
+
+        <a href=https://www.linkedin.com/in/emily-hann-15a1271aa/>
+          <img src="images/linkedin.png"
+          alt="LinkedIn social icon"
+          title="" />
+        </a>
+
+        <a href=https://twitter.com/EmilyHann18>
+          <img src="images/twitter.png"
+          alt="Twitter social icon"
+          title="" />
+        </a>
+
+      </div>
+    <!--End Icon Library-->
+
+    </div>
+<!--End Main Content-->
+
+<!-- Footer -->
+
+    <div class="footer">
+
+      <div id="contact me">
+        <address>
+          <p><a href="mailto:emilyhann41@gmail.com">
+            emilyhann41@gmail.com</a></p>
+        </address>
+      </div>
+
+      <p>&copy; emily hann</p>
+
+    </div><!--End Footer-->
+
+  </body>
+
+</html>

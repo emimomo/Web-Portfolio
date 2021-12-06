@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <title>Emily Hann</title>
+    <meta name="description"
+      content="Emily Hann Web Portfolio" />
+    <meta http-equiv="author"
+      content="Emily Hann" />
+    <link href="../../index/styles/styles.css"
+      type="text/css"
+      rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand&family=Syncopate&family=Unica+One&display=swap" rel="stylesheet">
+  <head>
+
+  <body>
+
+  <!--Header-->
+    <div class="header">
+
+  <!-- Site Logo -->
+      <div id="logo">
+        <a href=../index.html>
+          <img src="../../index/images/logo.png"
+            alt="Site Logo"
+            title="" />
+        </a>
+      </div><!--End Logo-->
+
+  <!-- Site navigation menu -->
+      <div id="navbar">
+        <ul class="navbar">
+          <li><a href="../../index/about_me/about_me.html">About Me</a></li>
+          <li><a href="../../index/soundscape/soundscape.html">Soundscape Narrative</a></li>
+          <li><a href="visual_argument.html">Visual Argument</a></li>
+          <li><a href="mailto:emilyhann@gmail.com">Contact Me</a></li>
+        </ul>
+      </div><!--End navigation menu-->
+
+    </div>
+  <!--End Header-->
+
+    <div class="main">
+    <!--VA Heading-->
+      <div id="visual argument heading">
+        <h2>"Every Child Counts" Visual Argument</h2>
+
+      </div>
+    <!--End VA Heading-->
+
+
+  <!--Visual Argument Image-->
+      <div id="visual argument">
+        <img src="../../index/images/every_child_count_va.jpg"
+          alt="visual argument"
+          title="Every Child Counts" />
+
+      </div>
+  <!--End Visual Argument Image-->
+
+      <hr />
+
+  <!--VA Description-->
+      <div class="description" id="author's statement">
+
+        <p>“Every Child Counts” is an activist visual argument that brings awareness to
+          the past atrocities First Nations peoples encountered while at residential schools.
+          Recently, over 3,200 bodies were recovered from unmarked graves at residential schools
+          across Canada and the U.S., who were likely victims of abuse and disease due to the
+          mistreatment and poor sanitation at these facilities.
+          </p>
+        <p>In recognition of the tragic loss these children’s lives, my composition reflects
+          imagery from the “Every Child Matters” movement currently sweeping across the nation.
+          The use of the color orange, indicating the movement itself, along with images of butterflies
+          – a symbol of transformation, the circle of life, and children in many indigenous cultures –
+          generates solidarity in a time of collective grief from those communities this discovery impacts
+          most.
+          </p>
+        <p>Rather than focus on the atrocities of residential schools itself, I wanted to highlight the
+          sense of loss through the use of footprints. The larger footprints were inspired by the
+          ink footprints infants receive on their birth certificate, prompting viewers to reflect
+          on the children in their own lives. The smaller footprints, arranged in a sunburst
+          pattern, plays with the idea of empty space to suggest that children, who were once
+          here, have now disappeared, alluding to the sinister practices employed by residential
+          schools.
+          </p>
+        <p>While viewing my visual argument, I urge the viewer to take their personal
+          experiences into consideration to sympathize with the indigenous community as they
+          mourn the loss of their ancestors.
+        </p>
+
+      </div>
+
+  <!--End VA Description-->
+
+      <hr />
+
+  <!--Sources-->
+      <h5>Image Sources</h5>
+
+      <p>All images used into my visual argument are from open-access sites like <a href=https://www.flickr.com/ target="_blank">Flickr</a>
+        or were legally downloaded from image-sharing websites like <a href=https://www.shutterstock.com/ target="_blank">shutterstock</a>.</p>
+
+      <!-- List of Sources -->
+
+      <ul>
+        <li>“<a href=https://www.shutterstock.com/image-photo/new-born-babys-foot-print-black-56861266>New born baby's footprint in black on white background</a>” by Grindstone Media Group
+          is licensed under the Shutterstock Standard Image License</li>
+        <li>“<a href=https://www.flickr.com/photos/pmillera4/50418629121>Monarch Butterfly</a>” by Peter Miller is licensed under CC BY-NC-ND 2.0</li>
+        <li>“<a href=https://www.flickr.com/photos/pmillera4/50384374788/>Monarch Butterfly</a>” by Peter Miller is licensed under CC BY-NC-ND 2.0</li>
+        <li>“<a href=https://www.shutterstock.com/image-vector/black-silhouette-foot-human-footprint-icon-1009413049>Black silhouette .foot. Human footprint. Icon. Isolated on white background. Vector
+          illustration</a>” by T.SALAMATIK is licensed under the Shutterstock Standard Image License</li>
+      </ul>
+  <!--End Sources-->
+</div>
+<!-- Footer -->
+
+    <div class="footer">
+
+      <div id="contact me">
+        <address>
+          <p><a href="mailto:emilyhann41@gmail.com">
+            emilyhann41@gmail.com</a></p>
+        </address>
+      </div>
+
+      <p>&copy; emily hann</p>
+
+    </div><!--End Footer-->
+
+  </body>
+
+</html>
