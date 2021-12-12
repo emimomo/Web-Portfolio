@@ -1,9 +1,0 @@
-body {
-  font-family: Helvetica, Open Sans, Calibri;
-}
-h1 {
-  font-family: Copperplate, Helvetica, Calibri;
-}
-h3 {
-  font-family: Quicksand, Helvetica, Calibri;
-}
